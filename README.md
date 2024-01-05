@@ -248,7 +248,8 @@ MySQL Password: Password1
 
 Click “Install Now!”
 
-![image](https://github.com/bozuna92/osTicket-prereqs/assets/155588954/9eb6b715-6102-4622-b2c3-b7c59ed76af0)
+![image](https://github.com/bozuna92/osTicket-prereqs/assets/155588954/51bc067b-790d-42be-a026-06b706111c72)
+
 
 
 
