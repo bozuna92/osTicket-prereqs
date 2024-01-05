@@ -1,4 +1,4 @@
-# osTicket-Install
+# osTicket-Prereqs and Install
 
  use these files to install osTicket and some of the dependencies
  https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
