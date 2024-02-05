@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
+
+
 # osTicket-Prereqs and Install
 
  use these files to install osTicket and some of the dependencies
